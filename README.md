@@ -67,7 +67,7 @@ A simple web app that generates QR codes from text or URLs and lets users downlo
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript`
 
-🔗 [Live Demo](https://qr-code-generator-nine-gray.vercel.app/) · 🔗 [GitHub Repo](https://github.com/uday-kumar55/foodhub-website)
+🔗 [Live Demo](https://qr-code-generator-nine-gray.vercel.app/) · 🔗 [GitHub Repo](https://github.com/SAKETH0106/QR-Code-Generator)
 
 
 
